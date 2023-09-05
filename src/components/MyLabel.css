@@ -25,3 +25,6 @@
 .text-tertiary {
   color: #ee6c4d;
 }
+.uppercase {
+  text-transform: uppercase;
+}
