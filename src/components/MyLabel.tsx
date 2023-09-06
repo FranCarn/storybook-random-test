@@ -1,4 +1,4 @@
-import "./MyLabel.css";
+import "./myLabel.css";
 
 export interface Props {
   /**
@@ -53,3 +53,5 @@ export const MyLabel = ({
     </span>
   );
 };
+
+export default MyLabel;
